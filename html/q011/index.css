@@ -1,0 +1,17 @@
+#top{
+    background-color: rgba(255, 208, 0, 0.295);
+    width:500px;
+    height: 50px;
+  }
+  #left{
+    background-color: rgb(61, 150, 150);
+    height: 400px;
+    width: 50px;
+    float: left;
+  }
+  #right{
+    background-color: rgb(0, 255, 149);
+    height: 400px;
+    width: 450px;
+    float: left;
+  }
