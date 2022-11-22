@@ -1,0 +1,26 @@
+
+
+#box {
+
+    display: grid;   
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr; 
+    grid-template-rows: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr; 
+    width: 900px;
+    height: auto;
+
+}
+
+.ex {
+    width: 100px;
+    height: 100px;
+}
+
+.ex:nth-of-type(2n+1){
+    background-color: black;    
+}
+.ex:nth-of-type(2n){
+    background-color: white;    
+}
+.ex:nth-of-type(9n){
+    background-color: red;  
+}

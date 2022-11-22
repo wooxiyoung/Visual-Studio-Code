@@ -1,0 +1,36 @@
+#box {
+
+    display: grid;   
+    grid-template-columns: 1fr 1fr 1fr; 
+    grid-template-rows: 400px 600px;
+    width: 1200px;
+    height: auto;
+
+    background-color: pink;
+}
+
+.ex {
+    width: 100px;
+    height: 100px;
+}
+
+#a{
+    background-color: red;
+    flex-basis: 10%;
+}
+#b{
+    background-color: orange;
+    flex-basis: 30%;
+}
+#c{
+    background-color: yellow;
+    flex-basis: 35%;
+}
+#d{
+    background-color: green;
+    flex-basis: 10%;
+}
+#e{
+    background-color: blue;
+    flex-basis: 15%;
+}

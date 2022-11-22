@@ -1,0 +1,27 @@
+
+img{width: 300px;}
+
+    #top {margin: 20px;
+        margin-left: 20px;
+        margin-right: 20px;
+        border: 20px solid yellow; 
+
+        }
+
+
+#left {margin: 10px;
+    margin-left: 20px;
+    margin-right: 20px;
+    border: 40px solid green; 
+    padding: 10px;
+    border-radius: 50px;
+    }
+
+    #right {margin: 10px;
+        margin-left: 10px;
+        margin-right: 10px;
+        border: 10px solid blue; 
+        height: auto;
+        width: 1auto ;
+
+        }

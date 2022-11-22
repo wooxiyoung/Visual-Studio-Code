@@ -1,0 +1,15 @@
+#box{display: grid;
+grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr; 
+grid-template-rows: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr; 
+background-color: gray;
+width: 800px;
+height: 800px;}
+
+.ex{width: 100px; height: 100px;}
+
+#a {
+    background-color: white;}
+
+#b {
+background-color: black;}
+

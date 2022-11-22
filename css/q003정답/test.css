@@ -1,0 +1,21 @@
+img {
+    width:300px;
+}
+
+
+/* 할일
+
+마진
+보더(외각선)
+패딩 */
+#special_cat{
+    margin:10px;
+    border: 5px pink dashed;
+    padding: 20px;
+    border-radius: 30px;
+}
+
+#float_cat{
+    border : 5px red solid;
+    float :left;
+}

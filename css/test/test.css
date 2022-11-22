@@ -1,0 +1,8 @@
+div, p {background-color: pink;}
+
+img{margin: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    border: 10px solid green; 
+    padding: 100px;
+    }
